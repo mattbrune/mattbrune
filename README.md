@@ -1,10 +1,7 @@
 👋  Hi, I’m Matthew Brune, a current senior at Duke University
 
-👨‍🔬 I'm a climate tech researcher, investigating the risks (and the geopolitical ramifications) of climate intervention
+💼 I'm currently working as an aviation planner at HNTB, working in simulation
 
-🎓 I'm looking to develop my data science and machine learning skills as a valuable tool for problem-solving
+👨‍🔬 Previously, I've been a climate tech researcher, investigating the risks (and the geopolitical ramifications) of climate intervention
 
-💼 I'm seeking employment in the fields of data science, consulting and/or transportation, especially within the aviation sector.
-
-Please reach out to me at:
-📩 meb135@duke.edu
+🎓 I'm looking to develop my data science and machine learning skills as a valuable tool for problem-solving of all kinds
