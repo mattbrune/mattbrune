@@ -1,6 +1,6 @@
-👋  Hi, I’m Matthew Brune, a current senior at Duke University
+👋  Hi, I’m Matthew Brune, a senior at Duke University
 
-💼 I'm currently working as an aviation planner at HNTB, working in simulation
+💼 I'm currently working as an aviation planner at HNTB
 
 👨‍🔬 Previously, I've been a climate tech researcher, investigating the risks (and the geopolitical ramifications) of climate intervention
 
