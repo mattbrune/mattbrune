@@ -1,4 +1,4 @@
-👋  Hi, I’m Matthew Brune, a senior at Duke University
+👋  Hi, I’m Matt Brune, an aviation and data enthusiast
 
 💼 I'm currently working as an aviation planner at HNTB
 
